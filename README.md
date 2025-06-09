@@ -62,7 +62,3 @@ The server provides the following functionality:
 ## Development
 
 This project uses Python 3.12+ and follows modern Python packaging standards with `pyproject.toml`.
-
-## License
-
-[Add your license information here]
